@@ -7,18 +7,18 @@ python lime-example.py test-img.jpg
 </br></br>
 
 <table>
-  <tr><td align='center'><img src='/test-img.jpg'></td></tr>
+  <tr><td align='center'><img src='/images/test-img.jpg'></td></tr>
   <tr><td align='center'>raw image</td></tr>
   
-  <tr><td align='center'><img src='/test-img.jpg_ws1.jpg'></td></tr>
+  <tr><td align='center'><img src='/images/test-img.jpg_ws1.jpg'></td></tr>
   <tr><td align='center'>weight strategy 1</td></tr>
   
-  <tr><td align='center'><img src='/test-img.jpg_ws2.jpg'></td></tr>
+  <tr><td align='center'><img src='/images/test-img.jpg_ws2.jpg'></td></tr>
   <tr><td align='center'>weight strategy 2</td></tr>
   
-  <tr><td align='center'><img src='/test-img.jpg_ws3.jpg'></td></tr>
+  <tr><td align='center'><img src='/images/test-img.jpg_ws3.jpg'></td></tr>
   <tr><td align='center'>weight strategy 3</td></tr>
   
-  <tr><td align='center'><img src='/test-img.jpg_ws4.jpg'></td></tr>
+  <tr><td align='center'><img src='/images/test-img.jpg_ws4.jpg'></td></tr>
   <tr><td align='center'>weight strategy 4</td></tr>
 </table>
