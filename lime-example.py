@@ -12,7 +12,8 @@ import os
 
 from algorithms import lime
 
-file_path = sys.argv[1]
+file_path= 'D:/FPGA/python-lime-image-enhancement/images/test-img.jpg'
+#file_path = sys.argv[1]
 file_name = os.path.split(file_path)[1]
 raw_image = cv2.imread(file_path)
 
